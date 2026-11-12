@@ -8,7 +8,9 @@
 
 所有维护者**不保留所有权利**
 
-原作者 [FurryHuiYao](https://github.com/FurryHuiYao) 以 [CC BY-NC-SA 4.0](LICENSE) 保留部分权益
+// 据原作者意愿, 不要求 SA
+
+原作者 [FurryHuiYao](https://github.com/FurryHuiYao) 以 [CC BY-NC 4.0](LICENSE) 保留部分权益
 
 本分支经过原作者授权
 
